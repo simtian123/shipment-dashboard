@@ -2,7 +2,7 @@ let excelData = [];
 let chart;
 
 // 🔹 GitHub Pages URL for Excel
-const EXCEL_URL = "https://raw.githubusercontent.com/yourusername/shipment-dashboard/main/shipment.xlsx";
+const EXCEL_URL = "https://raw.githubusercontent.com/simtian123/shipment-dashboard/main/shipment.xlsx";
 
 // 🔹 Load Excel automatically on page load
 window.onload = () => {
